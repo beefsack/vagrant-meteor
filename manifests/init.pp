@@ -2,7 +2,7 @@ include nodejs
 
 file { "/etc/motd":
   content => "Welcome to vagrant-meteor, the Meteor development machine.
-Meteorite is installed, to start a project, use 'mrt create my-app",
+Meteorite is installed, to start a project, use 'mrt create my-app'",
 }
 
 package { [
