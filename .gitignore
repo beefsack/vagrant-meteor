@@ -2,6 +2,6 @@
 !/.gitignore
 !/.gitmodules
 !/Vagrantfile
-!/facts.template.yml
 !/manifests/
 !/modules/
+!/README.md
