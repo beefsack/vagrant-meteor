@@ -3,5 +3,7 @@
 !/.gitmodules
 !/Vagrantfile
 !/manifests/
+!/manifests/*
 !/modules/
+!/modules/*
 !/README.md
