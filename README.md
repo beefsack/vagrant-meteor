@@ -11,9 +11,7 @@ Installation
 ------------
 
 First, use Git to clone this repo to your computer somewhere with `git clone
---recursive https://github.com/beefsack/vagrant-meteor.git`, or [download the
-repo](https://github.com/beefsack/vagrant-meteor/archive/master.zip) and extract
-somewhere.
+--recursive https://github.com/beefsack/vagrant-meteor.git`.
 
 Then, install [Vagrant](http://downloads.vagrantup.com/) and
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads).  VirtualBox is used to
@@ -22,8 +20,8 @@ run the VM silently in the background.
 Usage
 -----
 
-Use your command line to change to the directory where you cloned or extracted
-this repo earlier, ie. `cd ~/vagrant-meteor`.
+Use your command line to change to the directory where you cloned this repo
+earlier, ie. `cd ~/vagrant-meteor`.
 
 Start Vagrant to create and run the VM using `vagrant up`.  This will download
 Ubuntu and configure the VM automatically, and can take a few minutes.
