@@ -10,7 +10,8 @@ image, install Meteor and other required packages, and expose it to the user.
 Installation
 ------------
 
-First, use Git to clone this repo to your computer somewhere, or [download the
+First, use Git to clone this repo to your computer somewhere with `git clone
+--recursive https://github.com/beefsack/vagrant-meteor.git`, or [download the
 repo](https://github.com/beefsack/vagrant-meteor/archive/master.zip) and extract
 somewhere.
 
