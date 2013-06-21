@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitmodules
+!/Vagrantfile
+!/facts.template.yml
+!/manifests/
+!/modules/

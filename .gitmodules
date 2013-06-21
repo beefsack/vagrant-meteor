@@ -1,0 +1,12 @@
+[submodule "modules/nodejs"]
+	path = modules/nodejs
+	url = https://github.com/siwilkins/puppetlabs-nodejs.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/vcsrepo"]
+	path = modules/vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
